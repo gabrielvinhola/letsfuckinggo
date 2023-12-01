@@ -40,7 +40,7 @@ func main() {
 		}
 
 		if !found {
-			fmt.Printf("Country %s not found in the data.\n", userInputCountry)
+			fmt.Printf("Country %s not found in the data\n", userInputCountry)
 		}
 	}
 }
